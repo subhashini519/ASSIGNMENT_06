@@ -1,3 +1,4 @@
+#1.
 import json
 
 class Employee:
@@ -74,7 +75,8 @@ for employee in employee_list:
     }
   ]
 """
-
+#-----------------------------------------------------------------------
+#2.
 import json
 
 indian_capitals = {
